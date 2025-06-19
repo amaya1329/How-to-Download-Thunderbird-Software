@@ -1,4 +1,4 @@
-project = 'Pogo Games Guide'
+project = 'Thunderbird'
 author = 'Your Name'
 release = '1.0'
 
